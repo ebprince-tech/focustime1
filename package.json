@@ -1,3 +1,6 @@
 {
-  "packageManager": "yarn@3.3.1"
+  "packageManager": "yarn@3.3.1",
+  "dependencies": {
+    "expo": "^47.0.12"
+  }
 }
