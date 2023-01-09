@@ -5,7 +5,8 @@
     "repository": "https://github.com/ebprince-tech/focustime1.git",
     "author": "Earle Prince <earleprince@hotmail.com>",
     "license": "MIT",
-    
+    "license": "NO LICENSE",
+
     "scripts": {
         "start": "expo start",
         "android": "expo start --android",
