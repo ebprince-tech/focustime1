@@ -21,7 +21,7 @@
         "@types/react": "^18.0.26",
         "@types/react-dom": "^18.0.10",
         "css-loader": "^6.7.3",
-        "expo": "^47.0.11",
+        "expo": "^47.0.12",
         "expo-constants": "~13.2.4",
         "expo-keep-awake": "~10.2.0",
         "expo-status-bar": "~1.4.0",
@@ -41,7 +41,8 @@
      
     },
     "devDependencies": {
-        "@babel/core": "^7.12.9"
+        "@babel/core": "^7.12.9",
+        "packageManager": "yarn@3.3.1"
     },
     "private": true
 }
