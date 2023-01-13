@@ -4,7 +4,6 @@
     "main": "index.js",
     "repository": "https://github.com/ebprince-tech/focustime1.git",
     "author": "Earle Prince <earleprince@hotmail.com>",
-    "license": "MIT",
     "license": "NO LICENSE",
 
     "scripts": {
